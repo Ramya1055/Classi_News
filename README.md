@@ -10,6 +10,8 @@ ClassiNews is an AI-powered web application that automatically classifies news a
 ✅ Category Filtering - Filter articles by category
 ✅ Article Management - Save, view, and delete classified articles
 ✅ Sample Articles - Pre-loaded examples for testing
+
+
 📁 Project Structure
 ClassiNews/
 ├── backend/
@@ -27,6 +29,8 @@ ClassiNews/
 │   ├── gen_ai_notebook.ipynb # Model training notebook
 │   └── test.csv             # Sample dataset
 └── README.md                # Project documentation
+
+
 🚀 Quick Start
 Step 1: Install Dependencies
 cd backend
